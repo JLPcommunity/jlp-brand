@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="140"
-   height="140"
-   viewBox="0 0 140 140"
+   width="700"
+   height="700"
+   viewBox="0 0 700 700"
    version="1.1"
    id="svg2"
    inkscape:version="0.91 r"
@@ -42,9 +42,9 @@
      inkscape:window-height="744"
      id="namedview28"
      showgrid="false"
-     inkscape:zoom="3.7850772"
-     inkscape:cx="41.419463"
-     inkscape:cy="12.107505"
+     inkscape:zoom="0.4934237"
+     inkscape:cx="0.042554981"
+     inkscape:cy="235.67087"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -100,18 +100,17 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="bg"
-     transform="translate(0,-660)"
-     style="display:inline"
-     sodipodi:insensitive="true" />
+     transform="translate(0,-100)"
+     style="display:inline" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="base"
      style="display:inline"
-     transform="translate(0,-660)">
+     transform="translate(0,-100)">
     <g
        id="g3357"
-       transform="translate(-279.50736,-33.389695)">
+       transform="matrix(5,0,0,5,-1397.5368,-3364.8476)">
       <path
          inkscape:connector-curvature="0"
          style="display:inline;opacity:1;fill:#e53935;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
