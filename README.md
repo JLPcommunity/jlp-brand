@@ -1,5 +1,5 @@
 JLP Community Brand
 ===================
 
-<img src="http://slack.yourdomain.com/badge.svg">
+<img src="http://jlpcommunity.herokuapp.com/badge.svg">
 
