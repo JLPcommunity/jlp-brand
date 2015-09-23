@@ -7,14 +7,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="960"
-   height="540"
-   viewBox="0 0 960 540"
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
    version="1.1"
    id="svg2"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="jlp_mark_red_960x540.svg"
-   inkscape:export-filename="/home/agnium/all/repo/agnium/jlp-brand/assets/jlp_mark_red_960x540.png"
+   sodipodi:docname="jlp_mark_red_1920x1080.svg"
+   inkscape:export-filename="/home/agnium/all/repo/agnium/jlp-brand/assets/png@2x/jlp_mark_red_1920x1080.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <metadata
@@ -42,9 +42,9 @@
      inkscape:window-height="744"
      id="namedview28"
      showgrid="false"
-     inkscape:zoom="0.53125979"
-     inkscape:cx="195.23337"
-     inkscape:cy="186.72739"
+     inkscape:zoom="0.41322314"
+     inkscape:cx="670.42902"
+     inkscape:cy="571.0412"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -102,24 +102,24 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="bg"
-     transform="translate(0,-260)"
+     transform="translate(0,280)"
      style="display:inline" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="base"
      style="display:inline"
-     transform="translate(0,-260)">
+     transform="translate(0,280)">
     <rect
        id="rect2997"
-       width="960"
-       height="540"
+       width="1920"
+       height="1080"
        x="0"
-       y="260"
+       y="-280"
        style="fill:#fffbff;fill-opacity:1" />
     <g
        id="g3357"
-       transform="matrix(2.9961027,0,0,2.9961027,-567.15994,-1747.0771)">
+       transform="matrix(5.9922054,0,0,5.9922054,-1134.3199,-4294.1542)">
       <path
          inkscape:connector-curvature="0"
          style="fill:#e53935;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"

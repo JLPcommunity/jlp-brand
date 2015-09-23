@@ -7,14 +7,14 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="960"
-   height="540"
-   viewBox="0 0 960 540"
+   width="1400"
+   height="1000"
+   viewBox="0 0 1400 1000"
    version="1.1"
    id="svg2"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="jlp_mark_red_960x540.svg"
-   inkscape:export-filename="/home/agnium/all/repo/agnium/jlp-brand/assets/jlp_mark_red_960x540.png"
+   sodipodi:docname="jlp_base_red.svg"
+   inkscape:export-filename="/home/agnium/all/repo/agnium/jlp-brand/assets/png@2x/jlp_base_red.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <metadata
@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>Agnium Brand Asset</dc:title>
+        <dc:title>JakartaLP Brand Asset</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,9 +42,9 @@
      inkscape:window-height="744"
      id="namedview28"
      showgrid="false"
-     inkscape:zoom="0.53125979"
-     inkscape:cx="195.23337"
-     inkscape:cy="186.72739"
+     inkscape:zoom="0.3864407"
+     inkscape:cx="458.31663"
+     inkscape:cy="238.70512"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -53,11 +53,10 @@
      inkscape:object-nodes="true"
      inkscape:snap-intersection-paths="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:snap-bbox="true"
-     inkscape:showpageshadow="false" />
+     inkscape:snap-bbox="true" />
   <!-- Generator: Sketch 3.0.3 (7892) - http://www.bohemiancoding.com/sketch -->
   <title
-     id="title4">Agnium Brand Asset</title>
+     id="title4">JakartaLP Brand Asset</title>
   <desc
      id="desc6">Created with Sketch.</desc>
   <defs
@@ -97,29 +96,59 @@
            id="feMergeNode21" />
       </feMerge>
     </filter>
+    <filter
+       id="filter-1-6"
+       filterUnits="objectBoundingBox"
+       height="2"
+       width="2"
+       y="-0.5"
+       x="-0.5"
+       color-interpolation-filters="sRGB">
+      <feOffset
+         id="feOffset11-5"
+         result="shadowOffsetOuter1"
+         in="SourceAlpha"
+         dy="2"
+         dx="2" />
+      <feGaussianBlur
+         id="feGaussianBlur13-5"
+         result="shadowBlurOuter1"
+         in="shadowOffsetOuter1"
+         stdDeviation="2" />
+      <feColorMatrix
+         id="feColorMatrix15-0"
+         result="shadowMatrixOuter1"
+         type="matrix"
+         in="shadowBlurOuter1"
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.35 0" />
+      <feMerge
+         id="feMerge17-6">
+        <feMergeNode
+           id="feMergeNode19-2"
+           in="shadowMatrixOuter1" />
+        <feMergeNode
+           id="feMergeNode21-6"
+           in="SourceGraphic" />
+      </feMerge>
+    </filter>
   </defs>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="bg"
-     transform="translate(0,-260)"
-     style="display:inline" />
+     transform="translate(0,200)"
+     style="display:inline"
+     sodipodi:insensitive="true" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="base"
      style="display:inline"
-     transform="translate(0,-260)">
-    <rect
-       id="rect2997"
-       width="960"
-       height="540"
-       x="0"
-       y="260"
-       style="fill:#fffbff;fill-opacity:1" />
+     transform="translate(0,200)">
     <g
+       style="display:inline"
        id="g3357"
-       transform="matrix(2.9961027,0,0,2.9961027,-567.15994,-1747.0771)">
+       transform="matrix(9.99,0,0,10,-2791.5785,-7200.0002)">
       <path
          inkscape:connector-curvature="0"
          style="fill:#e53935;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
